@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">iCount</string>
+    <string name="title_activity_image_capture">ImageCapture</string>
+    <string name="title_activity_gallery">Gallery</string>
+    <string name="title_activity_image_preview">ImagePreview</string>
+    <string name="homescreen_option_1">From Camera</string>
+    <string name="homescreen_option_2">From Gallery</string>
+    <string name="image_preview_image">Selected image</string>
+    <string name="run_count_algorithm">Auto Count</string>
+    <string name="album_name">CameraSample</string>
+
+</resources>
